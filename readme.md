@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord)](https://discordapp.com/users/401663076325261322)
 <a href="[discordapp.com/users/401663076325261322](https://discord.com/channels/@me/694476315734311024)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="simonghostriley.141" height="30" width="40" /> </a>
 </p>
 
