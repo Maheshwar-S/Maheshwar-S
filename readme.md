@@ -1,7 +1,7 @@
 [![MasterHead](https://dribbble.com/shots/4801105-Animation)]
 <h1 align="center">Hi 👋, I'm S Maheshwar</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjxysysl-uAAxVe5zgGHfcBAe0QMygDegQIARB9..i&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&w=800&h=600&q=animated%20coding%20gif&ved=2ahUKEwjxysysl-uAAxVe5zgGHfcBAe0QMygDegQIARB9]">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif]">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshwar-s&label=Profile%20views&color=0e75b6&style=flat" alt="maheshwar-s" /> </p>
 
