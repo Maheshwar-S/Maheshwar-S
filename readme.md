@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1100/1*ZXCnATiJsFR1jO4O-oDzgw.gif)
+<>(![MasterHead](https://miro.medium.com/v2/resize:fit:1100/1*ZXCnATiJsFR1jO4O-oDzgw.gif))
 <h1 align="center">Hi 👋, I'm S Maheshwar</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
